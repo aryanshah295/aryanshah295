@@ -59,18 +59,6 @@ I enjoy solving hard engineering problems — whether that's designing **distrib
 
 ---
 
-## 📊 GitHub Activity
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanshah295&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshah295&layout=compact&hide_border=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aryanshah295&hide_border=true&theme=default)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanshah295&hide_border=true&theme=minimal)
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanshah295)
